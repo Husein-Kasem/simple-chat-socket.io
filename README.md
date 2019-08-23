@@ -6,4 +6,4 @@
     - In the root of the repo run the command "npm install" to install the dependencies
     - When all the dependencies are installed run the commend "npm run start" to start the application
 
-## From any browser visit <http://localhost> to use the app
+## From any browser visit <http://localhost> to use the app :+1:
